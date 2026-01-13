@@ -49,3 +49,9 @@ This tool is for assessment support only, not diagnosis. Not a replacement for p
 - **988** - Suicide & Crisis Lifeline
 - **741741** - Crisis Text Line
 - **911** - Emergency services
+
+## 🖥️ Application Screenshots
+
+![Home Screen](Picture1.png)
+![Chat Interface](Picture2.png)
+![Session History](Picture3.png)
